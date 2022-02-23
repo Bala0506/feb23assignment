@@ -1,0 +1,15 @@
+l=[]
+n=int(input ("enter n:"))
+for i in range(n):
+    e=int(input("enter e:"))
+    l.append(e)
+min=l[0]
+Max=l[0]
+for i in range(1,n):
+    if 1[i]<min:
+       min=l[i]
+    if l[i]>max:
+       Max=l[i]
+ print ("min value is",min)
+ print ("max value is",max)
+
