@@ -1,0 +1,8 @@
++l=[]
+n=int(input ("enter n:"))
+for i in range(n):
+   x=int(input())
+   l.append(x)
+Print ('reverse of l')
+for i in range(n-1,-1,-1):
+    Print(1[i])
